@@ -1,0 +1,19 @@
+# Weird files
+._*
+
+# IDE stuff
+.cproject
+.project
+.settings/
+
+# Compiled files
+*.o
+
+# Executables
+proxy
+
+# Unnecessary files
+tiny/
+*.tar
+.proxy/
+.noproxy/
